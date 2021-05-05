@@ -1,3 +1,10 @@
+PRODUCER 
+topic: my-vsc-kafka-topic
+key: mykeyq
+{{random.words}}
+
+###
+
 PRODUCER keyed-message
 topic: UbuntuTopic
 key: dept-{{random.number(5)}}

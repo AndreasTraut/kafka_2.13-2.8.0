@@ -1,3 +1,9 @@
+CONSUMER consumer-group-id3
+topic: my-vsc-kafka-topic
+from: earliest
+
+###
+
 CONSUMER consumer-group-id
 topic: UbuntuTopic
 from: earliest
