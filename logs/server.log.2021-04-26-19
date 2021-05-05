@@ -1,0 +1,4 @@
+[2021-04-26 20:20:23,501] INFO Expiring session 0x1000009d4720001, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2021-04-26 20:20:34,616] INFO Expiring session 0x1000009d4720002, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2021-04-26 20:20:35,825] INFO Invalid session 0x1000009d4720001 for client /127.0.0.1:65007, probably expired (org.apache.zookeeper.server.ZooKeeperServer)
+[2021-04-26 20:20:36,540] INFO Invalid session 0x1000009d4720002 for client /127.0.0.1:65028, probably expired (org.apache.zookeeper.server.ZooKeeperServer)

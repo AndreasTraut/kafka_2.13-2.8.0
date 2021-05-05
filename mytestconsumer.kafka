@@ -1,0 +1,11 @@
+CONSUMER consumer-group-id
+topic: UbuntuTopic
+from: earliest
+
+
+###
+
+CONSUMER consumer-group-id2
+topic: UbuntuTopic
+from: earliest
+

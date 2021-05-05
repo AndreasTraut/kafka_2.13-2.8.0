@@ -1,0 +1,2 @@
+[2021-04-27 12:00:18,466] INFO [Partition erstesTopic-1 broker=0] ISR updated to 0,1 and version updated to [4] (kafka.cluster.Partition)
+[2021-04-27 12:00:18,528] INFO [Partition erstesTopic-0 broker=0] ISR updated to 0,1 and version updated to [5] (kafka.cluster.Partition)

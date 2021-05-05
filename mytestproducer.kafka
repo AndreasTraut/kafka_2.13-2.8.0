@@ -1,0 +1,14 @@
+PRODUCER keyed-message
+topic: UbuntuTopic
+key: dept-{{random.number(5)}}
+{
+    "dept": "{{address.cardinalDirection}}"
+}
+###
+
+PRODUCER keyed-message
+topic: UbuntuTopic
+key: mykeyq
+{{random.words}}
+
+###
