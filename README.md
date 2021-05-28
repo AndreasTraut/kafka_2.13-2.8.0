@@ -1,4 +1,8 @@
-# kafka_2.13-2.8.0
+# "Real-Time" Internet-of-Things Project
+
+I am working on a "Real-Time" app for streaming Internet-of-Things (IoT) data through Kafka and Apache Streams into an App.   
+
+Using: kafka_2.13-2.8.0  
 
 Start Zookeeper:  
 ./bin/zookeeper-server-start.sh config/zookeeper.properties &
