@@ -1,6 +1,6 @@
 # "Real-Time" Internet-of-Things Project
 
-I am working on a "Real-Time" app for streaming Internet-of-Things (IoT) data through Kafka and Apache Streams into an App.   
+I am working on a "Real-Time" app for streaming Internet-of-Things (IoT) data (e.g. temperature,...) through Kafka and Apache Streams into my app and applying machine-learning prediction algorithms. 
 
 Using: kafka_2.13-2.8.0  
 
